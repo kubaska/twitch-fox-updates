@@ -4,7 +4,7 @@
             "updates": [
                 {
                     "version": "5.0.0",
-                    "update_link": "https://example.com/addon-500.xpi"
+                    "update_link": "https://github.com/kubaska/twitch-fox/releases/download/5.0.0/twitch_fox-5.0.0-an+fx.xpi"
                 }
             ]
         }
