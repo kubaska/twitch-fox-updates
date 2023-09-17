@@ -3,8 +3,8 @@
         "{d4a70149-47b3-42dd-8849-19ac63a7047c}": {
             "updates": [
                 {
-                    "version": "5.1.3",
-                    "update_link": "https://github.com/kubaska/twitch-fox/releases/download/v5.1.3/twitch_fox-5.1.3-an+fx.xpi"
+                    "version": "5.1.5",
+                    "update_link": "https://github.com/kubaska/twitch-fox/releases/download/v5.1.5/twitch_fox-5.1.5-an+fx.xpi"
                 }
             ]
         }
